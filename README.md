@@ -2,6 +2,8 @@
 
 🎧 Spotify Music Analytics Dashboard | Power BI Project
 
+live project link:https://www.linkedin.com/posts/mohdaymankhan_powerbi-dataanalytics-datavisualization-ugcPost-7439219923748274177-G7Hv?utm_source=share&utm_medium=member_desktop&rcm=ACoAAD6lchMB1GhXggGRvMK9EYtTLmv7N8IqeCI
+
 Excited to share my latest Spotify Music Analytics Dashboard built using Power BI, where I analyzed global music data to uncover trends in songs, artists, popularity, and album performance.
 
 This project focuses on transforming raw music data into interactive insights using advanced data modeling and visualization techniques.
